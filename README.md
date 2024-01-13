@@ -2,14 +2,11 @@
 
 | # | Title | Languages |
 | ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![rs] |
-| [257][257l] | [Binary Tree Paths][257]  | ![rs] |
+| [15][15l] | [3Sum][15] | ![go]![rs] |
+| [257][257l] | [Binary Tree Paths][257]  | ![go]![rs] |
 
-[go]:./ico/golang.ico
-[rs]:./ico/rust.ico
-
-[15]:Problemset/0015-3Sum/README.md#15-3sum
-[257]:Problemset/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
+[15]:set/0015-3Sum/README.md#15-3sum
+[257]:set/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -188,3 +185,7 @@
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
+
+
+[go]:./ico/golang.ico
+[rs]:./ico/rust.ico
