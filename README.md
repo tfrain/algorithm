@@ -5,8 +5,8 @@
 | [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
 | [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
 
-[15]:set/0015-3Sum
-[257]:set/0257-Binary%20Tree%20Paths
+[15]:problem_set/0015-3Sum
+[257]:problem_set/0257-Binary%20Tree%20Paths
 
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
