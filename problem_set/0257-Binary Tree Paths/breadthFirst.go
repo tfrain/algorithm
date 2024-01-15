@@ -1,6 +1,12 @@
-package binarytreepaths
+package main
 
 import "strconv"
+
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
 
 type nodePath struct {
 	node *TreeNode
@@ -14,7 +20,7 @@ func binaryTreePaths(root *TreeNode) []string {
 	}
 
 	queue := []nodePath{{node: root, path: ""}}
-
+	
 	for len(queue) > 0 {
 		np := queue[0]
 		queue = queue[1:]

@@ -1,12 +1,15 @@
 ## Problems
 
-| # | Title | Languages |
-| ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![go]![rs] |
-| [257][257l] | [Binary Tree Paths][257]  | ![go]![rs] |
+| # | Title&Code | Languages | Medium Article |
+| ---- | ---- | ---- | ---- |
+| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
+| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
 
-[15]:set/0015-3Sum/README.md#15-3sum
-[257]:set/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
+[15]:set/0015-3Sum
+[257]:set/0257-Binary%20Tree%20Paths
+
+[257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
+[15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
