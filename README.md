@@ -2,12 +2,12 @@
 
 | # | Title&Code | Languages | Medium Article |
 | ---- | ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
+| [15][15l] | [3Sum][15] | ![go] | [medium][15m]{:target="_blank" rel="noopener"} |
 | [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
 | [148][148l] | [Sort List][148] | ![go] | [medium][148m] |
 
 [15]:problem_set/0015-3Sum
-[148]:problem_set/Sort%20List
+[148]:problem_set/0148-Sort%20List
 [257]:problem_set/0257-Binary%20Tree%20Paths
 
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
