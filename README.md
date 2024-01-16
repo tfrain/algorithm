@@ -2,14 +2,17 @@
 
 | # | Title&Code | Languages | Medium Article |
 | ---- | ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
-| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
+| [15][15l] | [3Sum][15] | ![go] | [medium][15m]{:target="_blank"} |
+| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m]{:target="_blank"} |
+| [148][148l] | [][148] | ![go] | [medium][148m]{:target="_blank"} |
 
 [15]:problem_set/0015-3Sum
+[148]:problem_set/Sort%20List
 [257]:problem_set/0257-Binary%20Tree%20Paths
 
-[257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
+[148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
+[257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -124,6 +127,7 @@
 [144l]:https://leetcode.com/problems/binary-tree-preorder-traversal/
 [145l]:https://leetcode.com/problems/binary-tree-postorder-traversal/
 [147l]:https://leetcode.com/problems/insertion-sort-list/
+[148l]:https://leetcode.com/problems/sort-list/description/
 [150l]:https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [151l]:https://leetcode.com/problems/reverse-words-in-a-string/
 [152l]:https://leetcode.com/problems/maximum-product-subarray/
@@ -188,7 +192,6 @@
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
-
 
 [go]:./ico/golang.ico
 [rs]:./ico/rust.ico
