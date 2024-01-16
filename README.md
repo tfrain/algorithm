@@ -2,9 +2,9 @@
 
 | # | Title&Code | Languages | Medium Article |
 | ---- | ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m]{:target="_blank"} |
-| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m]{:target="_blank"} |
-| [148][148l] | [][148] | ![go] | [medium][148m]{:target="_blank"} |
+| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
+| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
+| [148][148l] | [Sort List][148] | ![go] | [medium][148m] |
 
 [15]:problem_set/0015-3Sum
 [148]:problem_set/Sort%20List
