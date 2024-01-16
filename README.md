@@ -13,6 +13,8 @@
 [15]([15l]){:target="_blank" rel="noopener"}
 [15l]:https://leetcode.com/problems/3sum/
 
+[15](https://leetcode.com/problems/3sum/){:target="_blank" rel="noopener"}
+
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
