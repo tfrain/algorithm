@@ -7,13 +7,10 @@
 | [76][76l]   | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
 | [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
 | [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
-
-```  
-# More
+<!-- # More
 
 More details: [meidum](https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59)
-I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm)
-```
+I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
 
 [15]:problem_set/0015-3Sum
 [17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
