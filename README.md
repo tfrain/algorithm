@@ -1,21 +1,31 @@
 ## Problems
+| #           | Title&Code                                  | Languages | Medium Article |
+| ----------- | ------------------------------------------- | --------- | -------------- |
+| [15][15l]   | [3Sum][15]                                  | ![go]     | [medium][15m]  |
+| [17][17l]   | [Letter Combinations of a Phone Number][17] | ![go]     | [medium][17m]  |
+| [64][64l]            | [Minimum Path Sum][64]                                            | ![go]          | [medium][64m]               |
+| [76][76l]   | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
+| [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
+| [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
 
-| # | Title&Code | Languages | Medium Article |
-| ---- | ---- | ---- | ---- |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
-| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
-| [148][148l] | [Sort List][148] | ![go] | [medium][148m] |
+```  
+# More
+
+More details: [meidum](https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59)
+I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm)
+```
 
 [15]:problem_set/0015-3Sum
+[17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
+[64]:problem_set/0064-Minimum%20Path%20Sum
+[76]:problem_set/0076-Minimum%20Window%20Substring
 [148]:problem_set/0148-Sort%20List
 [257]:problem_set/0257-Binary%20Tree%20Paths
 
-[15]([15l]){:target="_blank" rel="noopener"}
-[15l]:https://leetcode.com/problems/3sum/
-
-[15](https://leetcode.com/problems/3sum/){:target="_blank" rel="noopener"}
-
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
+[17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
+[64m]:
+[76m]:
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 
@@ -79,6 +89,7 @@
 [73l]:https://leetcode.com/problems/set-matrix-zeroes/
 [74l]:https://leetcode.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode.com/problems/sort-colors/
+[76l]:https://leetcode.com/problems/minimum-window-substring
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/
 [80l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
