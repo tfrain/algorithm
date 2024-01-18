@@ -1,15 +1,15 @@
 ## Problems
 | #           | Title&Code                                  | Languages | Medium Article |
-| ----------- | ------------------------------------------- | --------- | -------------- |
+|:----------- | ------------------------------------------- |:--------- | -------------- |
 | [15][15l]   | [3Sum][15]                                  | ![go]     | [medium][15m]  |
 | [17][17l]   | [Letter Combinations of a Phone Number][17] | ![go]     | [medium][17m]  |
-| [64][64l]            | [Minimum Path Sum][64]                                            | ![go]          | [medium][64m]               |
+| [64][64l]   | [Minimum Path Sum][64]                      | ![go]     | [medium][64m]  |
 | [76][76l]   | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
 | [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
 | [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
 <!-- # More
 
-More details: [meidum](https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59)
+More details like time and space complexity: [meidum](https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59)
 I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
 
 [15]:problem_set/0015-3Sum
@@ -21,7 +21,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository](
 
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
-[64m]:
+[64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [76m]:
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
