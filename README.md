@@ -6,17 +6,19 @@
 | [64][64l]   | [Minimum Path Sum][64]                      | ![go]     | [medium][64m]  |
 | [76][76l]   | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
 | [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
+| [215][215l]            | [Kth Largest Element in an Array][215]                                            | ![go]          | [medium][215m]               |
 | [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
 <!-- # More
 
-More details like time and space complexity: [meidum](https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59)
-I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
+More details: [meidum]()  
+I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm)-->
 
 [15]:problem_set/0015-3Sum
 [17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
 [64]:problem_set/0064-Minimum%20Path%20Sum
 [76]:problem_set/0076-Minimum%20Window%20Substring
 [148]:problem_set/0148-Sort%20List
+[215]:problem_set/0215-Kth%20Largest%20Element%20in%20an%20Array
 [257]:problem_set/0257-Binary%20Tree%20Paths
 
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
@@ -24,6 +26,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository](
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [76m]:
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
+[215m]:
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 
 [1l]:https://leetcode.com/problems/two-sum/
