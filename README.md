@@ -24,9 +24,9 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
-[76m]:
+[76m]:https://medium.com/@Wesley_Wei/leetcode-215-golang-kth-largest-element-in-an-array-insights-into-quickselect-and-minheap-5342963d1505
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
-[215m]:
+[215m]: https://medium.com/@Wesley_Wei/leetcode-215-golang-kth-largest-element-in-an-array-insights-into-quickselect-and-minheap-5342963d1505
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 
 [1l]:https://leetcode.com/problems/two-sum/
