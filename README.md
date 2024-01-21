@@ -216,8 +216,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
-
-[300l]https://leetcode.com/problems/longest-increasing-subsequence/
+[300l]:https://leetcode.com/problems/longest-increasing-subsequence/
 
 [go]:./ico/golang.ico
 [rs]:./ico/rust.ico
