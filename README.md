@@ -1,18 +1,20 @@
 ## Problems
-| Problems # | Title&Solution Code | Languages | Medium Article |
-| :--- | ---- | :--- | ---- |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
-| [17][17l] | [Letter Combinations of a Phone Number][17] | ![go] | [medium][17m] |
-| [64][64l] | [Minimum Path Sum][64] | ![go] | [medium][64m] |
-| [76][76l] | [Minimum Window Substring][76] | ![go] | [medium][76m] |
-| [134][134l] | [Gas Station][134] | ![go] | [medium][134m] |
-| [148][148l] | [Sort List][148] | ![go] | [medium][148m] |
-| [215][215l] | [Kth Largest Element in an Array][215] | ![go] | [medium][215m] |
-| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
-| [300][300l] | [Longest Increasing Subsequence][300] | ![go] | [medium][300m] |
+
+| Problems #  | Title&Solution Code                         | Languages | Medium Article |
+|:-----------:| ------------------------------------------- |:--------- | -------------- |
+|  [15][15l]  | [3Sum][15]                                  | ![go]     | [medium][15m]  |
+|  [17][17l]  | [Letter Combinations of a Phone Number][17] | ![go]     | [medium][17m]  |
+|  [64][64l]  | [Minimum Path Sum][64]                      | ![go]     | [medium][64m]  |
+|  [76][76l]  | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
+| [134][134l] | [Gas Station][134]                          | ![go]     | [medium][134m] |
+| [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
+| [215][215l] | [Kth Largest Element in an Array][215]      | ![go]     | [medium][215m] |
+| [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
+| [300][300l] | [Longest Increasing Subsequence][300]       | ![go]     | [medium][300m] |
+
 <!-- # More
 
-More details like  **time and space complexity**: [meidum](https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463)  
+More details like **time and space complexity**: [meidum](https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463)  
 I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
 
 [15]:problem_set/0015-3Sum
@@ -214,6 +216,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
+
 [300l]https://leetcode.com/problems/longest-increasing-subsequence/
 
 [go]:./ico/golang.ico
