@@ -1,24 +1,28 @@
 ## Problems
 
-| Problems #  | Title&Solution Code                         | Languages | Medium Article |
-|:-----------:| ------------------------------------------- |:--------- | -------------- |
-|  [15][15l]  | [3Sum][15]                                  | ![go]     | [medium][15m]  |
-|  [17][17l]  | [Letter Combinations of a Phone Number][17] | ![go]     | [medium][17m]  |
-|  [64][64l]  | [Minimum Path Sum][64]                      | ![go]     | [medium][64m]  |
-|  [76][76l]  | [Minimum Window Substring][76]              | ![go]     | [medium][76m]  |
-| [134][134l] | [Gas Station][134]                          | ![go]     | [medium][134m] |
-| [148][148l] | [Sort List][148]                            | ![go]     | [medium][148m] |
-| [215][215l] | [Kth Largest Element in an Array][215]      | ![go]     | [medium][215m] |
-| [257][257l] | [Binary Tree Paths][257]                    | ![go]     | [medium][257m] |
-| [300][300l] | [Longest Increasing Subsequence][300]       | ![go]     | [medium][300m] |
+| Problems #  | Title&Solution Code                                 | Languages | Medium Article |
+|:-----------:| --------------------------------------------------- |:--------- | -------------- |
+|   [3][3l]   | [Longest Substring Without Repeating Characters][3] | ![go]     | [medium][3m]   |
+|  [15][15l]  | [3Sum][15]                                          | ![go]     | [medium][15m]  |
+|  [17][17l]  | [Letter Combinations of a Phone Number][17]         | ![go]     | [medium][17m]  |
+|  [45][45l]  | [Jump Game II][45]                                  | ![go]     | [medium][45m]  |
+|  [64][64l]  | [Minimum Path Sum][64]                              | ![go]     | [medium][64m]  |
+|  [76][76l]  | [Minimum Window Substring][76]                      | ![go]     | [medium][76m]  |
+| [134][134l] | [Gas Station][134]                                  | ![go]     | [medium][134m] |
+| [148][148l] | [Sort List][148]                                    | ![go]     | [medium][148m] |
+| [215][215l] | [Kth Largest Element in an Array][215]              | ![go]     | [medium][215m] |
+| [257][257l] | [Binary Tree Paths][257]                            | ![go]     | [medium][257m] |
+| [300][300l] | [Longest Increasing Subsequence][300]               | ![go]     | [medium][300m] |
 
 <!-- # More
 
-More details like **time and space complexity**: [meidum](https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463)  
+More details like **time and space complexity**: [meidum]()  
 I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
 
+[3]:problem_set/Longest%20Substring%20Without%20Repeating%20Characters
 [15]:problem_set/0015-3Sum
 [17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
+[45]:problem_set/0045-Jump%20Game%20II
 [64]:problem_set/0064-Minimum%20Path%20Sum
 [76]:problem_set/0076-Minimum%20Window%20Substring
 [134]:problem_set/0134-Gas%20Station
@@ -27,8 +31,10 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [257]:problem_set/0257-Binary%20Tree%20Paths
 [300]:problem_set/0300-Longest%20Increasing%20Subsequence
 
+[3m]:https://medium.com/@Wesley_Wei/
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
+[45m]:https://medium.com/@Wesley_Wei/leetcode-45-golang-unraveling-jump-game-ii-a-study-in-dynamic-programming-and-greedy-algorithms-dd6646b807d7
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [76m]:https://medium.com/towardsdev/leetcode-76-golang-decoding-the-minimum-window-substring-3876c1670a20
 [134m]:https://medium.com/@Wesley_Wei/leetcode-134-golang-gas-station-embracing-greedy-algorithms-d2ce0b4b50ba
@@ -70,6 +76,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [38l]:https://leetcode.com/problems/count-and-say/
 [39l]:https://leetcode.com/problems/combination-sum/
 [42l]:https://leetcode.com/problems/trapping-rain-water/
+[45l]:https://leetcode.com/problems/jump-game-ii
 [46l]:https://leetcode.com/problems/permutations/
 [47l]:https://leetcode.com/problems/permutations-ii/
 [48l]:https://leetcode.com/problems/rotate-image/
