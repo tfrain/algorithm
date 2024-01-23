@@ -1,18 +1,21 @@
 ## Problems
 
-| Problems #  | Title&Solution Code                                 | Languages | Medium Article |
-|:-----------:| --------------------------------------------------- |:--------- | -------------- |
-|   [3][3l]   | [Longest Substring Without Repeating Characters][3] | ![go]     | [medium][3m]   |
-|  [15][15l]  | [3Sum][15]                                          | ![go]     | [medium][15m]  |
-|  [17][17l]  | [Letter Combinations of a Phone Number][17]         | ![go]     | [medium][17m]  |
-|  [45][45l]  | [Jump Game II][45]                                  | ![go]     | [medium][45m]  |
-|  [64][64l]  | [Minimum Path Sum][64]                              | ![go]     | [medium][64m]  |
-|  [76][76l]  | [Minimum Window Substring][76]                      | ![go]     | [medium][76m]  |
-| [134][134l] | [Gas Station][134]                                  | ![go]     | [medium][134m] |
-| [148][148l] | [Sort List][148]                                    | ![go]     | [medium][148m] |
-| [215][215l] | [Kth Largest Element in an Array][215]              | ![go]     | [medium][215m] |
-| [257][257l] | [Binary Tree Paths][257]                            | ![go]     | [medium][257m] |
-| [300][300l] | [Longest Increasing Subsequence][300]               | ![go]     | [medium][300m] |
+| Problems #  | Title&Solution Code                                              | Languages | Medium Article |
+|:-----------:| ---------------------------------------------------------------- |:--------- | -------------- |
+|   [3][3l]   | [Longest Substring Without Repeating Characters][3]              | ![go]     | [medium][3m]   |
+|  [15][15l]  | [3Sum][15]                                                       | ![go]     | [medium][15m]  |
+|  [17][17l]  | [Letter Combinations of a Phone Number][17]                      | ![go]     | [medium][17m]  |
+|  [45][45l]  | [Jump Game II][45]                                               | ![go]     | [medium][45m]  |
+|  [62][62l]  | [Unique Paths][62]                                               | ![go]     | [medium][62m]  |
+|  [64][64l]  | [Minimum Path Sum][64]                                           | ![go]     | [medium][64m]  |
+|  [76][76l]  | [Minimum Window Substring][76]                                   | ![go]     | [medium][76m]  |
+| [105][105l] | [Construct Binary Tree from Preorder and Inorder Traversal][105] | ![go]     | [medium][105m] |
+| [134][134l] | [Gas Station][134]                                               | ![go]     | [medium][134m] |
+| [148][148l] | [Sort List][148]                                                 | ![go]     | [medium][148m] |
+| [207][207l]            | [Course Schedule][207]                                                                 | ![go]          | [medium][207m]               |
+| [215][215l] | [Kth Largest Element in an Array][215]                           | ![go]     | [medium][215m] |
+| [257][257l] | [Binary Tree Paths][257]                                         | ![go]     | [medium][257m] |
+| [300][300l] | [Longest Increasing Subsequence][300]                            | ![go]     | [medium][300m] |
 
 <!-- # More
 
@@ -23,22 +26,28 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [15]:problem_set/0015-3Sum
 [17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
 [45]:problem_set/0045-Jump%20Game%20II
+[62]:problem_set/0062-Unique%20Paths
 [64]:problem_set/0064-Minimum%20Path%20Sum
 [76]:problem_set/0076-Minimum%20Window%20Substring
+[105]:problem_set/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal
 [134]:problem_set/0134-Gas%20Station
 [148]:problem_set/0148-Sort%20List
+[207]:problem_set/0207-Course%20Schedule
 [215]:problem_set/0215-Kth%20Largest%20Element%20in%20an%20Array
 [257]:problem_set/0257-Binary%20Tree%20Paths
 [300]:problem_set/0300-Longest%20Increasing%20Subsequence
 
-[3m]:https://medium.com/@Wesley_Wei/
+[3m]:https://medium.com/towardsdev/leetcode-3-golang-longest-substring-without-repeating-characters-sliding-window-and-more-07414ae04806
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
 [45m]:https://medium.com/@Wesley_Wei/leetcode-45-golang-unraveling-jump-game-ii-a-study-in-dynamic-programming-and-greedy-algorithms-dd6646b807d7
+[62m]:https://medium.com/@Wesley_Wei/leetcode-62-golang-the-many-ways-of-traversing-grids-considering-unique-paths-09f2fb9f47d8
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [76m]:https://medium.com/towardsdev/leetcode-76-golang-decoding-the-minimum-window-substring-3876c1670a20
+[105m]:https://medium.com/@Wesley_Wei/leetcode-105-golang-constructing-binary-trees-a-preorder-and-inorder-traversal-guide-35fca1dbd405
 [134m]:https://medium.com/@Wesley_Wei/leetcode-134-golang-gas-station-embracing-greedy-algorithms-d2ce0b4b50ba
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
+[207m]:https://medium.com/@Wesley_Wei/leetcode-207-golang-navigating-course-schedules-graph-and-topological-sort-946ffb78c506
 [215m]: https://medium.com/@Wesley_Wei/leetcode-215-golang-kth-largest-element-in-an-array-insights-into-quickselect-and-minheap-5342963d1505
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
