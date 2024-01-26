@@ -253,7 +253,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
 [300l]:https://leetcode.com/problems/longest-increasing-subsequence/
-[763]:https://leetcode.com/problems/partition-labels
+[763l]:https://leetcode.com/problems/partition-labels
 
 [go]:./ico/golang.ico
 [rs]:./ico/rust.ico
