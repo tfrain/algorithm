@@ -1,46 +1,64 @@
 ## Problems
 
-| Problems # | Title&Solution Code | Languages | Medium Article |
-| :--: | ---- | :--- | :--: |
-| [3][3l] | [Longest Substring Without Repeating Characters][3] | ![go] | [medium][3m] |
-| [15][15l] | [3Sum][15] | ![go] | [medium][15m] |
-| [17][17l] | [Letter Combinations of a Phone Number][17] | ![go] | [medium][17m] |
-| [20][20l] | [Valid Parentheses][20] | ![go] | [medium][20m] |
-| [45][45l] | [Jump Game II][45] | ![go] | [medium][45m] |
-| [62][62l] | [Unique Paths][62] | ![go] | [medium][62m] |
-| [64][64l] | [Minimum Path Sum][64] | ![go] | [medium][64m] |
-| [76][76l] | [Minimum Window Substring][76] | ![go] | [medium][76m] |
-| [92][92l] | [Reverse Linked List II][92] | ![go] | [medium][92m] |
-| [105][105l] | [Construct Binary Tree from Preorder and Inorder Traversal][105] | ![go] | [medium][105m] |
-| [134][134l] | [Gas Station][134] | ![go] | [medium][134m] |
-| [138][138l] | [Copy List with Random Pointer][138] | ![go] | [medium][138m] |
-| [148][148l] | [Sort List][148] | ![go] | [medium][148m] |
-| [207][207l] | [Course Schedule][207] | ![go] | [medium][207m] |
-| [208][208l] | [Implement Trie (Prefix Tree)][208] | ![go] | [medium][208m] |
-| [215][215l] | [Kth Largest Element in an Array][215] | ![go] | [medium][215m] |
-| [239][239l] | [Sliding Window Maximum][239] | ![go] | [medium][239m] |
-| [257][257l] | [Binary Tree Paths][257] | ![go] | [medium][257m] |
-| [300][300l] | [Longest Increasing Subsequence][300] | ![go] | [medium][300m] |
-| [763][763l] | [Partition Labels][763] | ![go] | [medium][763m] |
+| Problems #  | Title&Solution Code                                              | Languages | Medium Article |
+|:-----------:| ---------------------------------------------------------------- |:--------- |:--------------:|
+|   [3][3l]   | [Longest Substring Without Repeating Characters][3]              | ![go]     |  [medium][3m]  |
+| [5][5l]            | [Longest Palindromic Substring][5]                                                                 | ![go]          | [medium][5m]               |
+|  [15][15l]  | [3Sum][15]                                                       | ![go]     | [medium][15m]  |
+|  [17][17l]  | [Letter Combinations of a Phone Number][17]                      | ![go]     | [medium][17m]  |
+|  [20][20l]  | [Valid Parentheses][20]                                          | ![go]     | [medium][20m]  |
+|  [41][41l]  | [First Missing Positive][41]                                     | ![go]     | [medium][41m]  |
+|  [45][45l]  | [Jump Game II][45]                                               | ![go]     | [medium][45m]  |
+|  [62][62l]  | [Unique Paths][62]                                               | ![go]     | [medium][62m]  |
+|  [64][64l]  | [Minimum Path Sum][64]                                           | ![go]     | [medium][64m]  |
+|  [76][76l]  | [Minimum Window Substring][76]                                   | ![go]     | [medium][76m]  |
+|  [79][79l]  | [Word Search][79]                                                | ![go]     | [medium][79m]  |
+|  [84][84l]  | [Largest Rectangle in Histogram][84]                             | ![go]     | [medium][84m]  |
+|  [92][92l]  | [Reverse Linked List II][92]                                     | ![go]     | [medium][92m]  |
+| [105][105l] | [Construct Binary Tree from Preorder and Inorder Traversal][105] | ![go]     | [medium][105m] |
+| [122][122l] | [Best Time to Buy and Sell Stock II][122]                        | ![go]     | [medium][122m] |
+| [128][128l] | [Longest Consecutive Sequence][128]                              | ![go]     | [medium][128m] |
+| [134][134l] | [Gas Station][134]                                               | ![go]     | [medium][134m] |
+| [138][138l] | [Copy List with Random Pointer][138]                             | ![go]     | [medium][138m] |
+| [139][139l] | [Word Break][139]                                                | ![go]     | [medium][139m] |
+| [146][146l] | [LRU Cache][146]                                                 | ![go]     | [medium][146m] |
+| [148][148l] | [Sort List][148]                                                 | ![go]     | [medium][148m] |
+| [207][207l] | [Course Schedule][207]                                           | ![go]     | [medium][207m] |
+| [208][208l] | [Implement Trie (Prefix Tree)][208]                              | ![go]     | [medium][208m] |
+| [215][215l] | [Kth Largest Element in an Array][215]                           | ![go]     | [medium][215m] |
+| [239][239l] | [Sliding Window Maximum][239]                                    | ![go]     | [medium][239m] |
+| [257][257l] | [Binary Tree Paths][257]                                         | ![go]     | [medium][257m] |
+| [300][300l] | [Longest Increasing Subsequence][300]                            | ![go]     | [medium][300m] |
+| [567][567l] | [Permutation in String][567]                                     | ![go]     | [medium][567m] |
+| [739][739l] | [Daily Temperatures][739]                                        | ![go]<br> | [medium][739m] |
+| [763][763l] | [Partition Labels][763]                                          | ![go]     | [medium][763m] |
 
 
 <!-- # More
 
-More details like **time and space complexity**: [meidum]()  
+More details like **time and space complexity**: [meidum](https://medium.com/programmers-career/leetcode-138-golang-mastering-copy-list-with-random-pointer-8fa5f5e05ed6)  
 I'll frequently share updates on my LeetCode progress at my github [repository](https://github.com/tfrain/algorithm) -->
 
 [3]:problem_set/Longest%20Substring%20Without%20Repeating%20Characters
+[5]:problem_set/Longest%20Palindromic%20Substring
 [15]:problem_set/0015-3Sum
 [17]:problem_set/0017-Letter%20Combinations%20of%20a%20Phone%20Number
 [20]:problem_set/0020-Valid%20Parentheses
+[41]:problem_set/0041-First%20Missing%20Positive
 [45]:problem_set/0045-Jump%20Game%20II
 [62]:problem_set/0062-Unique%20Paths
 [64]:problem_set/0064-Minimum%20Path%20Sum
 [76]:problem_set/0076-Minimum%20Window%20Substring
+[79]:problem_set/0079-Word%20Search
+[84]:problem_set/0084-Largest%20Rectangle%20in%20Histogram
 [92]:problem_set/0092-Reverse%20Linked%20List%20II
 [105]:problem_set/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal
+[122]:problem_set/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II
+[128]:problem_set/0128-Longest%20Consecutive%20Sequence
 [134]:problem_set/0134-Gas%20Station
 [138]:problem_set/0138-Copy%20List%20with%20Random%20Pointer
+[139]:problem_set/0139-Word%20Break
+[146]:problem_set/0146-LRU%20Cache
 [148]:problem_set/0148-Sort%20List
 [207]:problem_set/0207-Course%20Schedule
 [208]:problem_set/0208-Implement%20Trie%20(Prefix%20Tree)
@@ -48,20 +66,30 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [239]:problem_set/0239-Sliding%20Window%20Maximum
 [257]:problem_set/0257-Binary%20Tree%20Paths
 [300]:problem_set/0300-Longest%20Increasing%20Subsequence
+[567]:problem_set/0567-Permutation%20in%20String
+[739]:problem_set/0739-Daily%20Temperatures
 [763]:problem_set/0763-Partition%20Labels
 
 [3m]:https://medium.com/towardsdev/leetcode-3-golang-longest-substring-without-repeating-characters-sliding-window-and-more-07414ae04806
+[5m]:https://medium.com/programmers-career/leetcode-5-golang-longest-palindromic-substring-expand-around-center-and-manachers-2614335c2815
 [15m]:https://medium.com/@Wesley_Wei/leetcode-15-golang-simplifying-the-3sum-problem-with-a-recursive-2sum-solution-17f900e98477
 [17m]:https://medium.com/@Wesley_Wei/leetcode-17-golang-deciphering-letter-combinations-from-a-phone-number-d0f10326e517
 [20m]:https://medium.com/@Wesley_Wei/leetcode-20-golang-valid-parentheses-with-alternative-stack-implementations-d405b4d45713
+[41m]:https://medium.com/@Wesley_Wei/leetcode-41-golang-unraveling-the-mystery-of-the-first-missing-positive-063950adaa55
 [45m]:https://medium.com/@Wesley_Wei/leetcode-45-golang-unraveling-jump-game-ii-a-study-in-dynamic-programming-and-greedy-algorithms-dd6646b807d7
 [62m]:https://medium.com/@Wesley_Wei/leetcode-62-golang-the-many-ways-of-traversing-grids-considering-unique-paths-09f2fb9f47d8
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [76m]:https://medium.com/towardsdev/leetcode-76-golang-decoding-the-minimum-window-substring-3876c1670a20
-[92m]:https://medium.com/@Wesley_Wei/
+[79m]:https://medium.com/@Wesley_Wei/leetcode-79-golang-word-search-a-deep-dive-into-dfs-and-backtracking-6151e586f197
+[84m]:https://medium.com/@Wesley_Wei/
+[92m]:https://medium.com/@Wesley_Wei/leetcode-92-golang-reverse-linked-list-ii-5619073842a4
 [105m]:https://medium.com/@Wesley_Wei/leetcode-105-golang-constructing-binary-trees-a-preorder-and-inorder-traversal-guide-35fca1dbd405
+[122m]:https://medium.com/programmers-career/leetcode-122-golang-best-time-to-buy-and-sell-stock-ii-medium-2adb23be3650
+[128m]:https://medium.com/programmers-career/leetcode-128-golang-longest-consecutive-sequence-medium-c067d4abe324
 [134m]:https://medium.com/@Wesley_Wei/leetcode-134-golang-gas-station-embracing-greedy-algorithms-d2ce0b4b50ba
-[138m]:https://medium.com/@Wesley_Wei/
+[138m]:https://medium.com/programmers-career/leetcode-138-golang-mastering-copy-list-with-random-pointer-8fa5f5e05ed6
+[139m]:https://medium.com/@Wesley_Wei/leetcode-139-golang-dynamic-exploration-of-the-word-break-problem-a095cb4952e1
+[146m]:https://medium.com/@Wesley_Wei/
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
 [207m]:https://medium.com/@Wesley_Wei/leetcode-207-golang-navigating-course-schedules-graph-and-topological-sort-946ffb78c506
 [208m]:https://medium.com/@Wesley_Wei/leetcode-208-golang-implement-trie-prefix-tree-medium-812fa2a2b9b8
@@ -69,6 +97,8 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [239m]:https://medium.com/towardsdev/leetcode-239-golang-solving-sliding-window-maximum-with-dequeue-and-monotonic-queue-b9fd734c378c
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
+[567m]:https://medium.com/towardsdev/leetcode-567-golang-breaking-down-the-permutation-in-string-problem-5b1e62b92709
+[739m]:https://medium.com/@Wesley_Wei/leetcode-739-golang-tackling-daily-temperatures-problem-with-monotonic-stack-bf446bfc3e4d
 [763m]:https://medium.com/@Wesley_Wei/
 
 
@@ -104,6 +134,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [37l]:https://leetcode.com/problems/sudoku-solver/
 [38l]:https://leetcode.com/problems/count-and-say/
 [39l]:https://leetcode.com/problems/combination-sum/
+[41l]:https://leetcode.com/problems/first-missing-positive/
 [42l]:https://leetcode.com/problems/trapping-rain-water/
 [45l]:https://leetcode.com/problems/jump-game-ii
 [46l]:https://leetcode.com/problems/permutations/
@@ -136,12 +167,13 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [76l]:https://leetcode.com/problems/minimum-window-substring
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/
+[79l]:https://leetcode.com/problems/word-search/
 [80l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 [81l]:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-[85l]:https://leetcode.com/problems/maximal-rectangle/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
+[85l]:https://leetcode.com/problems/maximal-rectangle/
 [86l]:https://leetcode.com/problems/partition-list/
 [88l]:https://leetcode.com/problems/merge-sorted-array/
 [89l]:https://leetcode.com/problems/gray-code/
@@ -176,6 +208,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [121l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode.com/problems/valid-palindrome/
+[128l]:https://leetcode.com/problems/longest-consecutive-sequence/
 [129l]:https://leetcode.com/problems/sum-root-to-leaf-numbers/
 [133l]:https://leetcode.com/problems/clone-graph/
 [134l]:https://leetcode.com/problems/gas-station/
@@ -186,6 +219,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [142l]:https://leetcode.com/problems/linked-list-cycle-ii/
 [144l]:https://leetcode.com/problems/binary-tree-preorder-traversal/
 [145l]:https://leetcode.com/problems/binary-tree-postorder-traversal/
+[146l]:https://leetcode.com/problems/lru-cache/
 [147l]:https://leetcode.com/problems/insertion-sort-list/
 [148l]:https://leetcode.com/problems/sort-list/description/
 [150l]:https://leetcode.com/problems/evaluate-reverse-polish-notation/
@@ -253,7 +287,9 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
 [300l]:https://leetcode.com/problems/longest-increasing-subsequence/
-[763l]:https://leetcode.com/problems/partition-labels
+[567l]:https://leetcode.com/problems/permutation-in-string/
+[739l]:https://leetcode.com/problems/daily-temperatures/
+[763l]:https://leetcode.com/problems/partition-labels/
 
 [go]:./ico/golang.ico
 [rs]:./ico/rust.ico
