@@ -1,52 +1,56 @@
 ## Problems
 
-| Problems #  | Title&Solution Code                                              | Languages | Medium Article |
-|:-----------:| ---------------------------------------------------------------- |:--------- |:--------------:|
-|   [2][2l]   | [Add Two Numbers][2]                                             | ![go]     |  [medium][2m]  |
-|   [3][3l]   | [Longest Substring Without Repeating Characters][3]              | ![go]     |  [medium][3m]  |
-|   [4][4l]   | [Median of Two Sorted Arrays][4]                                 | ![go]     |  [medium][4m]  |
-|   [5][5l]   | [Longest Palindromic Substring][5]                               | ![go]     |  [medium][5m]  |
-|  [15][15l]  | [3Sum][15]                                                       | ![go]     | [medium][15m]  |
-|  [17][17l]  | [Letter Combinations of a Phone Number][17]                      | ![go]     | [medium][17m]  |
-|  [19][19l]  | [Remove Nth Node From End of List][19]                           | ![go]     | [medium][19m]  |
-|  [20][20l]  | [Valid Parentheses][20]                                          | ![go]     | [medium][20m]  |
-|  [24][24l]  | [Swap Nodes in Pairs][24]                                        | ![go]     | [medium][24m]  |
-|  [25][25l]  | [Reverse Nodes in k-Group][25]                                   | ![go]     | [medium][25m]  |
-|  [35][35l]  | [Search Insert Position][35]                                     | ![go]     | [medium][35m]  |
-|  [41][41l]  | [First Missing Positive][41]                                     | ![go]     | [medium][41m]  |
-|  [45][45l]  | [Jump Game II][45]                                               | ![go]     | [medium][45m]  |
-|  [53][53l]  | [Maximum Subarray][53]                                           | ![go]     | [medium][53m]  |
-|  [62][62l]  | [Unique Paths][62]                                               | ![go]     | [medium][62m]  |
-|  [64][64l]  | [Minimum Path Sum][64]                                           | ![go]     | [medium][64m]  |
-|  [73][73l]  | [Set Matrix Zeroes][73]                                          | ![go]     | [medium][73m]  |
-|  [76][76l]  | [Minimum Window Substring][76]                                   | ![go]     | [medium][76m]  |
-|  [79][79l]  | [Word Search][79]                                                | ![go]     | [medium][79m]  |
-|  [84][84l]  | [Largest Rectangle in Histogram][84]                             | ![go]     | [medium][84m]  |
-|  [92][92l]  | [Reverse Linked List II][92]                                     | ![go]     | [medium][92m]  |
-| [105][105l] | [Construct Binary Tree from Preorder and Inorder Traversal][105] | ![go]     | [medium][105m] |
-| [122][122l] | [Best Time to Buy and Sell Stock II][122]                        | ![go]     | [medium][122m] |
-| [124][124l] | [Binary Tree Maximum Path Sum][124]                              | ![go]     | [medium][124m] |
-| [128][128l] | [Longest Consecutive Sequence][128]                              | ![go]     | [medium][128m] |
-| [131][131l] | [Palindrome Partitioning][131]                                   | ![go]     | [medium][131m] |
-| [134][134l] | [Gas Station][134]                                               | ![go]     | [medium][134m] |
-| [138][138l] | [Copy List with Random Pointer][138]                             | ![go]     | [medium][138m] |
-| [139][139l] | [Word Break][139]                                                | ![go]     | [medium][139m] |
-| [146][146l] | [LRU Cache][146]                                                 | ![go]     | [medium][146m] |
-| [148][148l] | [Sort List][148]                                                 | ![go]     | [medium][148m] |
-| [171][171l] | [Excel Sheet Column Number][171]                                 | ![go]     | [medium][171m] |
-| [207][207l] | [Course Schedule][207]                                           | ![go]     | [medium][207m] |
-| [208][208l] | [Implement Trie (Prefix Tree)][208]                              | ![go]     | [medium][208m] |
-| [215][215l] | [Kth Largest Element in an Array][215]                           | ![go]     | [medium][215m] |
-| [239][239l] | [Sliding Window Maximum][239]                                    | ![go]     | [medium][239m] |
-| [257][257l] | [Binary Tree Paths][257]                                         | ![go]     | [medium][257m] |
-| [274][274l]            | [H-Index](https://leetcode.com/problems/h-index/)                                                                 | ![go]          | [medium][274m]               |
-| [287][287l] | [Find the Duplicate Number][287]                                 | ![go]     | [medium][287m] |
-| [300][300l] | [Longest Increasing Subsequence][300]                            | ![go]     | [medium][300m] |
-| [394][394l] | [Decode String][394]                                             | ![go]     | [medium][394m] |
-| [567][567l] | [Permutation in String][567]                                     | ![go]     | [medium][567m] |
-| [739][739l] | [Daily Temperatures][739]                                        | ![go]<br> | [medium][739m] |
-| [763][763l] | [Partition Labels][763]                                          | ![go]     | [medium][763m] |
-| [994][994l] | [Rotting Oranges][994]                                           | ![go]     | [medium][994m] |
+|                                    Problems #                                     | Title&Solution Code                                              | Languages | Medium Article |
+|:---------------------------------------------------------------------------------:| ---------------------------------------------------------------- |:--------- |:--------------:|
+|                                      [2][2l]                                      | [Add Two Numbers][2]                                             | ![go]     |  [medium][2m]  |
+|                                      [3][3l]                                      | [Longest Substring Without Repeating Characters][3]              | ![go]     |  [medium][3m]  |
+|                                      [4][4l]                                      | [Median of Two Sorted Arrays][4]                                 | ![go]     |  [medium][4m]  |
+|                                      [5][5l]                                      | [Longest Palindromic Substring][5]                               | ![go]     |  [medium][5m]  |
+|                                     [15][15l]                                     | [3Sum][15]                                                       | ![go]     | [medium][15m]  |
+|                                     [17][17l]                                     | [Letter Combinations of a Phone Number][17]                      | ![go]     | [medium][17m]  |
+|                                     [19][19l]                                     | [Remove Nth Node From End of List][19]                           | ![go]     | [medium][19m]  |
+|                                     [20][20l]                                     | [Valid Parentheses][20]                                          | ![go]     | [medium][20m]  |
+|                                     [24][24l]                                     | [Swap Nodes in Pairs][24]                                        | ![go]     | [medium][24m]  |
+|                                     [25][25l]                                     | [Reverse Nodes in k-Group][25]                                   | ![go]     | [medium][25m]  |
+|                                     [35][35l]                                     | [Search Insert Position][35]                                     | ![go]     | [medium][35m]  |
+|                                     [41][41l]                                     | [First Missing Positive][41]                                     | ![go]     | [medium][41m]  |
+|                                     [45][45l]                                     | [Jump Game II][45]                                               | ![go]     | [medium][45m]  |
+|                                     [53][53l]                                     | [Maximum Subarray][53]                                           | ![go]     | [medium][53m]  |
+|                                     [62][62l]                                     | [Unique Paths][62]                                               | ![go]     | [medium][62m]  |
+|                                     [64][64l]                                     | [Minimum Path Sum][64]                                           | ![go]     | [medium][64m]  |
+|                                     [73][73l]                                     | [Set Matrix Zeroes][73]                                          | ![go]     | [medium][73m]  |
+|                                     [76][76l]                                     | [Minimum Window Substring][76]                                   | ![go]     | [medium][76m]  |
+|                                     [79][79l]                                     | [Word Search][79]                                                | ![go]     | [medium][79m]  |
+|                                     [84][84l]                                     | [Largest Rectangle in Histogram][84]                             | ![go]     | [medium][84m]  |
+|                                     [92][92l]                                     | [Reverse Linked List II][92]                                     | ![go]     | [medium][92m]  |
+|                                    [105][105l]                                    | [Construct Binary Tree from Preorder and Inorder Traversal][105] | ![go]     | [medium][105m] |
+|                                    [122][122l]                                    | [Best Time to Buy and Sell Stock II][122]                        | ![go]     | [medium][122m] |
+|                                    [124][124l]                                    | [Binary Tree Maximum Path Sum][124]                              | ![go]     | [medium][124m] |
+|                                    [128][128l]                                    | [Longest Consecutive Sequence][128]                              | ![go]     | [medium][128m] |
+|                                    [131][131l]                                    | [Palindrome Partitioning][131]                                   | ![go]     | [medium][131m] |
+|                                    [134][134l]                                    | [Gas Station][134]                                               | ![go]     | [medium][134m] |
+|                                    [138][138l]                                    | [Copy List with Random Pointer][138]                             | ![go]     | [medium][138m] |
+|                                    [139][139l]                                    | [Word Break][139]                                                | ![go]     | [medium][139m] |
+|                                    [146][146l]                                    | [LRU Cache][146]                                                 | ![go]     | [medium][146m] |
+|                                    [148][148l]                                    | [Sort List][148]                                                 | ![go]     | [medium][148m] |
+|                                    [171][171l]                                    | [Excel Sheet Column Number][171]                                 | ![go]     | [medium][171m] |
+|                                    [207][207l]                                    | [Course Schedule][207]                                           | ![go]     | [medium][207m] |
+|                                    [208][208l]                                    | [Implement Trie (Prefix Tree)][208]                              | ![go]     | [medium][208m] |
+|                                    [215][215l]                                    | [Kth Largest Element in an Array][215]                           | ![go]     | [medium][215m] |
+|                                    [239][239l]                                    | [Sliding Window Maximum][239]                                    | ![go]     | [medium][239m] |
+|                                    [257][257l]                                    | [Binary Tree Paths][257]                                         | ![go]     | [medium][257m] |
+|                   [274](https://leetcode.com/problems/h-index/)                   | [H-Index][274]                                                   | ![go]     | [medium][274m] |
+|                                    [287][287l]                                    | [Find the Duplicate Number][287]                                 | ![go]     | [medium][287m] |
+|                                    [300][300l]                                    | [Longest Increasing Subsequence][300]                            | ![go]     | [medium][300m] |
+|                                    [394][394l]                                    | [Decode String][394]                                             | ![go]     | [medium][394m] |
+| [530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)                                                                                  | [Minimum Absolute Difference in BST][530]                                                                 | ![go]          | [medium][530m]               |
+|        [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)        | [Reverse Words in a String III][557]                             | ![go]     | [medium][557m] |
+|                                    [567][567l]                                    | [Permutation in String][567]                                     | ![go]     | [medium][567m] |
+|                                    [739][739l]                                    | [Daily Temperatures][739]                                        | ![go]<br> | [medium][739m] |
+|                                    [763][763l]                                    | [Partition Labels][763]                                          | ![go]     | [medium][763m] |
+| [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Smallest Subtree with all the Deepest Nodes][865]               | ![go]     | [medium][865m] |
+|                                    [994][994l]                                    | [Rotting Oranges][994]                                           | ![go]     | [medium][994m] |
+
 
 <!-- # More
 
@@ -94,9 +98,13 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [287]:problem_set/0287-Find%20the%20Duplicate%20Number
 [300]:problem_set/0300-Longest%20Increasing%20Subsequence
 [394]:problem_set/0394-Decode%20String
+[530]:problem_set/0530-Minimum%20Absolute%20Difference%20in%20BST
+[557]:problem_set/0557-Reverse%20Words%20in%20a%20String%20III
 [567]:problem_set/0567-Permutation%20in%20String
 [739]:problem_set/0739-Daily%20Temperatures
 [763]:problem_set/0763-Partition%20Labels
+[865]:problem_set/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes
+[994]:problem_set/0994-Rotting%20Oranges
 
 [2m]:https://medium.com/@Wesley_Wei/
 [3m]:https://medium.com/towardsdev/leetcode-3-golang-longest-substring-without-repeating-characters-sliding-window-and-more-07414ae04806
@@ -139,9 +147,12 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [287m]:https://medium.com/programmers-career/leetcode-287-golang-find-the-duplicate-number-medium-floyds-tortoise-and-hare-and-binary-97c0afe49e65
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
 [394m]:https://medium.com/programmers-career/leetcode-394-golang-decoding-string-recursion-string-manipulation-75efcca005ed
+[530m]:https://medium.com/programmers-career/
+[557m]:https://medium.com/programmers-career/
 [567m]:https://medium.com/towardsdev/leetcode-567-golang-breaking-down-the-permutation-in-string-problem-5b1e62b92709
 [739m]:https://medium.com/@Wesley_Wei/leetcode-739-golang-tackling-daily-temperatures-problem-with-monotonic-stack-bf446bfc3e4d
 [763m]:https://medium.com/programmers-career/leetcode-763-golang-partition-labels-greedy-and-analysis-a358eb5616b6
+[865m]:https://medium.com/programmers-career/
 [994m]:https://medium.com/programmers-career/leetcode-994-golang-rotting-oranges-medium-breadth-first-search-bfs-42eb1ba21f13
 
 
