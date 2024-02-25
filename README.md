@@ -171,6 +171,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [287m]:https://medium.com/programmers-career/leetcode-287-golang-find-the-duplicate-number-medium-floyds-tortoise-and-hare-and-binary-97c0afe49e65
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
 [394m]:https://medium.com/programmers-career/leetcode-394-golang-decoding-string-recursion-string-manipulation-75efcca005ed
+[437m]:https://medium.com/programmers-career/
 [518m]:https://medium.com/programmers-career/leetcode-518-golang-coin-change-2-medium-two-dynamic-programmings-2d-and-1d-0c28c38ec68d
 [530m]:https://medium.com/programmers-career/leetcode-530-golang-minimum-absolute-difference-in-bst-easy-tree-traversal-algorithms-7b602d5be9e3
 [557m]:https://medium.com/programmers-career/leetcode-557-golang-reverse-words-in-a-string-iii-easy-array-iteration-and-in-place-word-d137035b0fd9
