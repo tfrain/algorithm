@@ -1,7 +1,7 @@
 ## Problems
 
 |                                          Problems #                                          | Title&Solution Code                                              | Languages | Medium Article  |
-|:--------------------------------------------------------------------------------------------:| ---------------------------------------------------------------- |:--------- |:---------------:|
+| :------------------------------------------------------------------------------------------: | ---------------------------------------------------------------- | :-------- | :-------------: |
 |                                           [2][2l]                                            | [Add Two Numbers][2]                                             | ![go]     |  [medium][2m]   |
 |                                           [3][3l]                                            | [Longest Substring Without Repeating Characters][3]              | ![go]     |  [medium][3m]   |
 |                                           [4][4l]                                            | [Median of Two Sorted Arrays][4]                                 | ![go]     |  [medium][4m]   |
@@ -23,6 +23,7 @@
 |                                          [41][41l]                                           | [First Missing Positive][41]                                     | ![go]     |  [medium][41m]  |
 |                   [42](https://leetcode.com/problems/trapping-rain-water/)                   | [Trapping Rain Water][42]                                        | ![go]     |  [medium][42m]  |
 |                                          [45][45l]                                           | [Jump Game II][45]                                               | ![go]     |  [medium][45m]  |
+|                      [46](https://leetcode.com/problems/permutations/)                       | [Permutations][46]                                               | ![go]     |  [medium][46m]  |
 |                        [51](https://leetcode.com/problems/n-queens/)                         | [N-Queens][51]                                                   | ![go]     |  [medium][51m]  |
 |                                          [53][53l]                                           | [Maximum Subarray][53]                                           | ![go]     |  [medium][53m]  |
 |                                          [62][62l]                                           | [Unique Paths][62]                                               | ![go]     |  [medium][62m]  |
@@ -41,25 +42,31 @@
 |                                         [134][134l]                                          | [Gas Station][134]                                               | ![go]     | [medium][134m]  |
 |                                         [138][138l]                                          | [Copy List with Random Pointer][138]                             | ![go]     | [medium][138m]  |
 |                                         [139][139l]                                          | [Word Break][139]                                                | ![go]     | [medium][139m]  |
-| [142](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                                             | [Linked List Cycle II][142]                                                                 | ![go]          | [medium][142m]                |
+|                  [142](https://leetcode.com/problems/linked-list-cycle-ii/)                  | [Linked List Cycle II][142]                                      | ![go]     | [medium][142m]  |
+|             [144](https://leetcode.com/problems/binary-tree-preorder-traversal/)             | [Binary Tree Preorder Traversal][144]                            | ![go]     | [medium][144m]  |
+|            [145](https://leetcode.com/problems/binary-tree-postorder-traversal/)             | [Binary Tree Postorder Traversal][145]                           | ![go]     | [medium][145m]  |
 |                                         [146][146l]                                          | [LRU Cache][146]                                                 | ![go]     | [medium][146m]  |
 |                                         [148][148l]                                          | [Sort List][148]                                                 | ![go]     | [medium][148m]  |
+|                [152](https://leetcode.com/problems/maximum-product-subarray/)                | [Maximum Product Subarray][152]                                  | ![go]     | [medium][152m]  |
 |          [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)          | [Find Minimum in Rotated Sorted Array][153]                      | ![go]     | [medium][153m]  |
 |                       [155](https://leetcode.com/problems/min-stack/)                        | [Min Stack][155]                                                 | ![go]     | [medium][155m]  |
 |                                         [171][171l]                                          | [Excel Sheet Column Number][171]                                 | ![go]     | [medium][171m]  |
 |                                         [207][207l]                                          | [Course Schedule][207]                                           | ![go]     | [medium][207m]  |
 |                                         [208][208l]                                          | [Implement Trie (Prefix Tree)][208]                              | ![go]     | [medium][208m]  |
 |                                         [215][215l]                                          | [Kth Largest Element in an Array][215]                           | ![go]     | [medium][215m]  |
+|             [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)              | [Kth Smallest Element in a BST][230]                             | ![go]     | [medium][230m]  |
 |                 [234](https://leetcode.com/problems/palindrome-linked-list/)                 | [Palindrome Linked List][234]                                    | ![go]     | [medium][234m]  |
 |        [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)         | [Lowest Common Ancestor of a Binary Tree][236]                   | ![go]     | [medium][236m]  |
 |                                         [239][239l]                                          | [Sliding Window Maximum][239]                                    | ![go]     | [medium][239m]  |
 |                 [240](https://leetcode.com/problems/search-a-2d-matrix-ii/)                  | [Search a 2D Matrix II][240]                                     | ![go]     | [medium][240m]  |
 |                                         [257][257l]                                          | [Binary Tree Paths][257]                                         | ![go]     | [medium][257m]  |
 |                        [274](https://leetcode.com/problems/h-index/)                         | [H-Index][274]                                                   | ![go]     | [medium][274m]  |
+|                      [283](https://leetcode.com/problems/move-zeroes/)                       | [Move Zeroes][283]                                               | ![go]     | [medium][283m]  |
 |                                         [287][287l]                                          | [Find the Duplicate Number][287]                                 | ![go]     | [medium][287m]  |
 |              [295](https://leetcode.com/problems/find-median-from-data-stream/)              | [Find Median from Data Stream][295]                              | ![go]     | [medium][295m]  |
 |                                         [300][300l]                                          | [Longest Increasing Subsequence][300]                            | ![go]     | [medium][300m]  |
 |                      [322](https://leetcode.com/problems/coin-change/)                       | [Coin Change][322]                                               | ![go]     | [medium][322m]  |
+|                [347](https://leetcode.com/problems/top-k-frequent-elements/)                 | [Top K Frequent Elements][347]                                   | ![go]     | [medium][347m]  |
 |                                         [394][394l]                                          | [Decode String][394]                                             | ![go]     | [medium][394m]  |
 |               [416](https://leetcode.com/problems/partition-equal-subset-sum/)               | [Partition Equal Subset Sum][416]                                | ![go]     | [medium][416m]  |
 |                      [437](https://leetcode.com/problems/path-sum-iii/)                      | [Path Sum III][437]                                              | ![go]     | [medium][437m]  |
@@ -104,6 +111,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [41]:problem_set/0041-First%20Missing%20Positive
 [42]:problem_set/0042-Trapping%20Rain%20Water
 [45]:problem_set/0045-Jump%20Game%20II
+[46]:problem_set/0046-Permutations
 [51]:problem_set/0051-N-Queens
 [53]:problem_set/0053-Maximum%20Subarray
 [62]:problem_set/0062-Unique%20Paths
@@ -123,24 +131,30 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [138]:problem_set/0138-Copy%20List%20with%20Random%20Pointer
 [139]:problem_set/0139-Word%20Break
 [142]:problem_set/0142-Linked%20List%20Cycle%20II
+[144]:problem_set/0144-Binary%20Tree%20Preorder%20Traversal
+[145]:problem_set/0145-Binary%20Tree%20Postorder%20Traversal
 [146]:problem_set/0146-LRU%20Cache
 [148]:problem_set/0148-Sort%20List
+[152]:problem_set/0152-Maximum%20Product%20Subarray
 [153]:problem_set/0153-Find%20Minimum%20in%20Rotated%20Sorted%20Array
 [155]:problem_set/0155-Min%20Stack
 [171]:problem_set/0171-Excel%20Sheet%20Column%20Number
 [207]:problem_set/0207-Course%20Schedule
 [208]:problem_set/0208-Implement%20Trie%20(Prefix%20Tree)
 [215]:problem_set/0215-Kth%20Largest%20Element%20in%20an%20Array
+[230]:problem_set/0230-Kth%20Smallest%20Element%20in%20a%20BST
 [234]:problem_set/0234-Palindrome%20Linked%20List
 [236]:problem_set/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree
 [239]:problem_set/0239-Sliding%20Window%20Maximum
 [240]:problem_set/0240-Search%20a%202D%20Matrix%20II
 [257]:problem_set/0257-Binary%20Tree%20Paths
 [274]:problem_set/0274-H-Index
+[283]:problem_set/0283-Move%20Zeroes
 [287]:problem_set/0287-Find%20the%20Duplicate%20Number
 [295]:problem_set/0295-Find%20Median%20from%20Data%20Stream
 [300]:problem_set/0300-Longest%20Increasing%20Subsequence
 [322]:problem_set/0322-Coin%20Change
+[347]:problem_set/0347-Top%20K%20Frequent%20Elements
 [394]:problem_set/0394-Decode%20String
 [416]:problem_set/0416-Partition%20Equal%20Subset%20Sum
 [437]:problem_set/0437-Path%20Sum%20III
@@ -180,6 +194,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [41m]:https://medium.com/@Wesley_Wei/leetcode-41-golang-unraveling-the-mystery-of-the-first-missing-positive-063950adaa55
 [42m]:https://medium.com/programmers-career/leetcode-42-golang-trapping-rain-water-hard-two-pointer-approach-30cd0b43b066
 [45m]:https://medium.com/@Wesley_Wei/leetcode-45-golang-unraveling-jump-game-ii-a-study-in-dynamic-programming-and-greedy-algorithms-dd6646b807d7
+[46m]:https://medium.com/programmers-career/
 [51m]:https://medium.com/programmers-career/leetcode-51-golang-n-queens-hard-backtracking-c820821b4ded
 [53m]:https://medium.com/programmers-career/leetcode-53-golang-maximum-subarray-medium-dynamic-programming-2745489e4e7c
 [62m]:https://medium.com/@Wesley_Wei/leetcode-62-golang-the-many-ways-of-traversing-grids-considering-unique-paths-09f2fb9f47d8
@@ -198,29 +213,35 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [134m]:https://medium.com/@Wesley_Wei/leetcode-134-golang-gas-station-embracing-greedy-algorithms-d2ce0b4b50ba
 [138m]:https://medium.com/programmers-career/leetcode-138-golang-mastering-copy-list-with-random-pointer-8fa5f5e05ed6
 [139m]:https://medium.com/@Wesley_Wei/leetcode-139-golang-dynamic-exploration-of-the-word-break-problem-a095cb4952e1
-[142m]:https://medium.com/programmers-career/
+[142m]:https://medium.com/programmers-career/leetcode-142-golang-linked-list-cycle-ii-medium-floyds-cycle-detection-algorithm-06346a866126
+[144m]:https://medium.com/programmers-career/
+[145m]:https://medium.com/programmers-career/
 [146m]:https://medium.com/programmers-career/leetcode-146-golang-diving-into-lru-cache-with-tailored-and-native-approaches-27f6dbeaa73d
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
+[152m]:https://medium.com/programmers-career/
 [153m]:https://medium.com/programmers-career/leetcode-153-golang-find-minimum-in-rotated-sorted-array-medium-binary-search-d0059899f797
-[155m]:https://medium.com/programmers-career/
+[155m]:https://medium.com/programmers-career/leetcode-155-golang-min-stack-medium-stack-data-structure-1090d3bcd0bd
 [171m]:https://medium.com/programmers-career/leetcode-171-golang-excel-sheet-column-number-easy-math-and-string-manipulation-f8ba5911e844
 [207m]:https://medium.com/@Wesley_Wei/leetcode-207-golang-navigating-course-schedules-graph-and-topological-sort-946ffb78c506
 [208m]:https://medium.com/@Wesley_Wei/leetcode-208-golang-implement-trie-prefix-tree-medium-812fa2a2b9b8
 [215m]:https://medium.com/@Wesley_Wei/leetcode-215-golang-kth-largest-element-in-an-array-insights-into-quickselect-and-minheap-5342963d1505
+[230m]:https://medium.com/programmers-career/
 [234m]:https://medium.com/programmers-career/leetcode-234-golang-palindrome-linked-list-easy-two-pointer-technique-623c2cb82adb
 [236m]:https://medium.com/programmers-career/leetcode-236-golang-lowest-common-ancestor-of-a-binary-tree-medium-recursion-54d9c4ffa7f5
 [239m]:https://medium.com/towardsdev/leetcode-239-golang-solving-sliding-window-maximum-with-dequeue-and-monotonic-queue-b9fd734c378c
-[240m]:https://medium.com/programmers-career/
+[240m]:https://medium.com/programmers-career/leetcode-240-golang-search-in-2d-matrix-ii-medium-binary-search-930d8aebec4d
 [257m]:https://medium.com/@Wesley_Wei/leetcode-257-golang-recursion-vs-bfs-vs-dfs-d35d31a849ab
 [274m]:https://medium.com/programmers-career/leetcode-274-golang-h-index-medium-counting-sort-0a3a28639e1a
+[283m]:https://medium.com/programmers-career/
 [287m]:https://medium.com/programmers-career/leetcode-287-golang-find-the-duplicate-number-medium-floyds-tortoise-and-hare-and-binary-97c0afe49e65
-[295m]:https://medium.com/programmers-career/
+[295m]:https://medium.com/programmers-career/leetcode-295-golang-find-median-from-data-stream-hard-heap-c45a06388477
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
 [322m]:https://medium.com/programmers-career/leetcode-322-golang-coin-change-medium-dynamic-programming-algorithms-394125572e3a
+[347m]:https://medium.com/programmers-career/
 [394m]:https://medium.com/programmers-career/leetcode-394-golang-decoding-string-recursion-string-manipulation-75efcca005ed
 [416m]:https://medium.com/programmers-career/leetcode-416-golang-partition-equal-subset-sum-medium-dynamic-programming-90bc0950e300
 [437m]:https://medium.com/programmers-career/leetcode-437-golang-path-sum-iii-medium-tree-traversal-3f55e3574e32
-[438m]:https://medium.com/programmers-career/
+[438m]:https://medium.com/programmers-career/leetcode-438-golang-find-all-anagrams-in-a-string-medium-sliding-window-technique-58303b2d00e6
 [475m]:https://medium.com/programmers-career/leetcode-475-golang-heaters-medium-binary-search-5df249fa2928
 [518m]:https://medium.com/programmers-career/leetcode-518-golang-coin-change-2-medium-two-dynamic-programmings-2d-and-1d-0c28c38ec68d
 [530m]:https://medium.com/programmers-career/leetcode-530-golang-minimum-absolute-difference-in-bst-easy-tree-traversal-algorithms-7b602d5be9e3
