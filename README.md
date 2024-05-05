@@ -20,6 +20,7 @@
 |             [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)              | [Search in Rotated Sorted Array][33]                             | ![go]     |  [medium][33m]  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array][34]    | ![go]     |  [medium][34m]  |
 |                                          [35][35l]                                           | [Search Insert Position][35]                                     | ![go]     |  [medium][35m]  |
+|                     [39](https://leetcode.com/problems/combination-sum/)                     | [Combination Sum][39]                                            | ![go]     |  [medium][39m]  |
 |                   [40](https://leetcode.com/problems/combination-sum-ii/)                    | [Combination Sum II][40]                                         | ![go]     |  [medium][40m]  |
 |                                          [41][41l]                                           | [First Missing Positive][41]                                     | ![go]     |  [medium][41m]  |
 |                   [42](https://leetcode.com/problems/trapping-rain-water/)                   | [Trapping Rain Water][42]                                        | ![go]     |  [medium][42m]  |
@@ -117,6 +118,7 @@
 [33]:problem_set/0033-Search%20in%20Rotated%20Sorted%20Array
 [34]:problem_set/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array
 [35]:problem_set/0035-Search%20Insert%20Position
+[39]:problem_set/0039-Combination%20Sum
 [40]:problem_set/0040-Combination%20Sum%20II
 [41]:problem_set/0041-First%20Missing%20Positive
 [42]:problem_set/0042-Trapping%20Rain%20Water
@@ -219,6 +221,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [33m]:https://medium.com/programmers-career/leetcode-33-golang-search-in-rotated-sorted-array-medium-binary-search-da7e31a58db0
 [34m]:https://medium.com/programmers-career/leetcode-34-golang-find-first-and-last-position-of-element-in-sorted-array-medium-two-binary-a0eac3eeda19
 [35m]:https://medium.com/programmers-career/leetcode-35-golang-search-insert-position-easy-binary-search-algorithm-c140a7ae2282
+[39m]:https://medium.com/programmers-career/
 [40m]:https://medium.com/programmers-career/leetcode-40-golang-combinatorial-sum-ii-medium-backtracking-84e335d28f2f
 [41m]:https://medium.com/@Wesley_Wei/leetcode-41-golang-unraveling-the-mystery-of-the-first-missing-positive-063950adaa55
 [42m]:https://medium.com/programmers-career/leetcode-42-golang-trapping-rain-water-hard-two-pointer-approach-30cd0b43b066
@@ -227,7 +230,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [49m]:https://medium.programmerscareer.com/leetcode-49-golang-group-anagrams-medium-hashing-technique-433443f23d73
 [51m]:https://medium.com/programmers-career/leetcode-51-golang-n-queens-hard-backtracking-c820821b4ded
 [53m]:https://medium.com/programmers-career/leetcode-53-golang-maximum-subarray-medium-dynamic-programming-2745489e4e7c
-[55m]:https://medium.com/programmers-career/
+[55m]:https://medium.programmerscareer.com/leetcode-55-golang-jump-game-medium-dynamic-programming-and-greedy-0d644dc31bfd
 [62m]:https://medium.com/@Wesley_Wei/leetcode-62-golang-the-many-ways-of-traversing-grids-considering-unique-paths-09f2fb9f47d8
 [64m]:https://medium.com/@Wesley_Wei/leetcode-64-golang-comprehensive-guide-to-leetcode-solution-using-dynamic-programming-3a718a360dd3
 [72m]:https://medium.com/programmers-career/leetcode-72-golang-edit-distance-hard-dynamic-programming-f0eaaf251fd2
@@ -239,7 +242,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [92m]:https://medium.com/@Wesley_Wei/leetcode-92-golang-reverse-linked-list-ii-5619073842a4
 [94m]:https://medium.programmerscareer.com/leetcode-94-golang-binary-tree-inorder-traversal-medium-recursive-and-iterative-approach-e578b321d452
 [105m]:https://medium.com/@Wesley_Wei/leetcode-105-golang-constructing-binary-trees-a-preorder-and-inorder-traversal-guide-35fca1dbd405
-[114m]:https://medium.com/programmers-career/
+[114m]:https://medium.programmerscareer.com/leetcode-114-golang-flatten-binary-tree-to-linked-list-medium-preorder-traversal-11a1003a5084
 [122m]:https://medium.com/programmers-career/leetcode-122-golang-best-time-to-buy-and-sell-stock-ii-medium-2adb23be3650
 [124m]:https://medium.com/programmers-career/leetcode-124-golang-binary-tree-maximum-path-sum-hard-depth-first-search-a88479abebc0
 [128m]:https://medium.com/programmers-career/leetcode-128-golang-longest-consecutive-sequence-medium-c067d4abe324
@@ -252,7 +255,7 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [145m]:https://medium.com/programmers-career/leetcode-145-golang-binary-tree-postorder-traversal-medium-recursion-and-stack-361d89fa1edf
 [146m]:https://medium.com/programmers-career/leetcode-146-golang-diving-into-lru-cache-with-tailored-and-native-approaches-27f6dbeaa73d
 [148m]:https://medium.com/@Wesley_Wei/leetcode-148-golang-exploring-different-sorting-implementations-for-linked-list-merge-bubble-7415505b1d59
-[150m]:https://medium.com/programmers-career/
+[150m]:https://medium.programmerscareer.com/leetcode-150-golang-evaluate-reverse-polish-notation-medium-stack-approach-7b6f01b33310
 [152m]:https://medium.com/programmers-career/leetcode-152-golang-maximum-product-subarray-medium-dynamic-programming-c789321e182f
 [153m]:https://medium.com/programmers-career/leetcode-153-golang-find-minimum-in-rotated-sorted-array-medium-binary-search-d0059899f797
 [155m]:https://medium.com/programmers-career/leetcode-155-golang-min-stack-medium-stack-data-structure-1090d3bcd0bd
@@ -276,22 +279,22 @@ I'll frequently share updates on my LeetCode progress at my github [repository]
 [300m]:https://medium.com/@Wesley_Wei/leetcode-300-golang-longest-increasing-subsequence-exploring-in-depth-the-golang-solution-dp-7f565b99c463
 [322m]:https://medium.com/programmers-career/leetcode-322-golang-coin-change-medium-dynamic-programming-algorithms-394125572e3a
 [347m]:https://medium.com/programmers-career/leetcode-347-golang-top-k-frequent-elements-medium-heap-data-structure-84b5aa1869c1
-[349m]:https://medium.com/programmers-career/
-[380m]:https://medium.com/programmers-career
+[349m]:https://medium.programmerscareer.com/leetcode-349-golang-intersection-of-two-arrays-easy-mapping-approach-5bf79a4de62d
+[380m]:https://medium.programmerscareer.com/leetcode-380-golang-insert-delete-getrandom-o-1-medium-hash-table-and-array-1d4cfd3a6030
 [394m]:https://medium.com/programmers-career/leetcode-394-golang-decoding-string-recursion-string-manipulation-75efcca005ed
 [416m]:https://medium.com/programmers-career/leetcode-416-golang-partition-equal-subset-sum-medium-dynamic-programming-90bc0950e300
 [437m]:https://medium.com/programmers-career/leetcode-437-golang-path-sum-iii-medium-tree-traversal-3f55e3574e32
 [438m]:https://medium.com/programmers-career/leetcode-438-golang-find-all-anagrams-in-a-string-medium-sliding-window-technique-58303b2d00e6
 [475m]:https://medium.com/programmers-career/leetcode-475-golang-heaters-medium-binary-search-5df249fa2928
 [518m]:https://medium.com/programmers-career/leetcode-518-golang-coin-change-2-medium-two-dynamic-programmings-2d-and-1d-0c28c38ec68d
-[528m]:https://medium.com/programmers-career/
+[528m]:https://medium.programmerscareer.com/leetcode-528-golang-random-pick-with-weight-medium-binary-search-b52f69988458
 [530m]:https://medium.com/programmers-career/leetcode-530-golang-minimum-absolute-difference-in-bst-easy-tree-traversal-algorithms-7b602d5be9e3
 [557m]:https://medium.com/programmers-career/leetcode-557-golang-reverse-words-in-a-string-iii-easy-array-iteration-and-in-place-word-d137035b0fd9
 [560m]:https://medium.com/programmers-career/leetcode-560-golang-subarray-sum-equals-k-medium-hash-map-algorithm-702b56f1c485
 [567m]:https://medium.com/towardsdev/leetcode-567-golang-breaking-down-the-permutation-in-string-problem-5b1e62b92709
 [572m]:https://medium.com/programmers-career/leetcode-572-golang-subtree-of-another-tree-easy-depth-first-search-dfs-4ccc17f8a928
 [652m]:https://medium.com/programmers-career/leetcode-652-golang-find-duplicate-subtrees-medium-tree-traversal-3c296ed2d5ef
-[679m]:https://medium.com/programmers-career/
+[679m]:https://medium.programmerscareer.com/leetcode-679-golang-24-game-medium-backtracking-2b31eca52a47
 [739m]:https://medium.com/@Wesley_Wei/leetcode-739-golang-tackling-daily-temperatures-problem-with-monotonic-stack-bf446bfc3e4d
 [763m]:https://medium.com/programmers-career/leetcode-763-golang-partition-labels-greedy-and-analysis-a358eb5616b6
 [865m]:https://medium.com/programmers-career/leetcode-865-golang-smallest-subtree-with-all-the-deepest-nodes-medium-recursion-and-0224ca5342d9
